@@ -1,0 +1,74 @@
+{
+  "header": {
+    "name": "Debasmita Sarkar",
+    "title": "Full-Stack Developer",
+    "profileImage": "/avtar.png",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/debasmita-s-b47289254",
+      "github": "https://github.com/Dsmita03",
+      "portfolio": "https://debasmita-ten.vercel.app/"
+    }
+  },
+  "about": {
+    "bio": "Highly motivated and detail-oriented full-stack developer and software engineering student with a solid foundation in modern web technologies and active open-source contributions. Skilled in designing scalable, high-performance applications, problem-solving, and working collaboratively within cross-functional teams. Passionate about building impactful solutions and embracing continuous learning.",
+    "contacts": {
+      "email": "debasmita.s003@gmail.com",
+      "phone": "+91-XXXXXXXXXX",
+      "address": "Kolkata, West Bengal, India"
+    }
+  },
+  "skills": [
+    "Python", "Java", "C", "JavaScript", "TypeScript",
+    "HTML5", "CSS3", "Angular 17", "React", "Node.js", "Express.js",
+    "MongoDB", "MySQL", "Firebase", "Postman", "Git", "GitHub",
+    "VS Code", "Vercel", "REST APIs", "Agile Development", "Responsive Design",
+    "Cloud Deployment", "Unit Testing", "CI/CD", "Problem-Solving"
+  ],
+  "hobbies": [
+  {
+    "name": "Photography",
+    "image": "/photo.png"
+  },
+  {
+    "name": "Traveling",
+    "image": "/travel.png"
+  },
+  {
+    "name": "Music",
+    "image": "/music.png"
+  }
+],
+
+  "experience": [
+    {
+      "company": "Infosys Springboard",
+      "role": "Full-Stack Developer Intern",
+      "duration": "December 2024 – February 2025",
+      "description": "Developed a full-stack travel registration system with advanced role-based authentication, dynamic booking modules for hotels, tours, and flights, and a feature-rich admin dashboard. Optimized API communication and used RxJS for reactive data handling."
+    }
+  ],
+  "projects": [
+    {
+      "name": "AgriTech-Hub",
+      "techStack": ["React", "Node.js", "Express", "Firebase", "TensorFlow"],
+      "description": "Built a multilingual weather tracking tool with PWA functionality, plant disease detection using TensorFlow (85%+ accuracy), a farmer discussion forum, and an AI-driven crop recommendation system.",
+      "date": "February 2025"
+    },
+    {
+      "name": "AlgoScope",
+      "techStack": ["Next.js", "TypeScript"],
+      "description": "A web-based visualization tool for algorithms like Bubble Sort, Merge Sort, Insertion Sort, and Selection Sort, with interactive graphical representations.",
+      "date": "September 2024"
+    }
+  ],
+  "certifications": [
+    { "name": "Google Solution Challenge 2024 Participation Certificate", "issuer": "Google", "year": "2024" },
+    { "name": "Postman API Fundamentals Student Expert", "issuer": "Postman", "year": "2024" },
+    { "name": "GitHub Workshop Certification", "issuer": "Industry Academia Community", "year": "2024" },
+    { "name": "TypeScript Course Certificate", "issuer": "Infosys", "year": "2024" },
+    { "name": "Completion Certificate in JavaScript", "issuer": "Infosys", "year": "2024" },
+    { "name": "Completion Certificate in Angular", "issuer": "Infosys", "year": "2024" },
+    { "name": "Google AI Essentials Certification", "issuer": "Coursera", "year": "2024" },
+    { "name": "Foundations of Cybersecurity", "issuer": "Grow with Google", "year": "2024" }
+  ]
+}
