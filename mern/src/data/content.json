@@ -1,0 +1,39 @@
+{
+    "header": {
+        "name": "Debasmita Sarkar",
+        "title": "Full Stack Developer",
+        "profileImage": "assets/images/profile.jpg",
+        "socials":{
+            "github":"https://github.com/debasmita123",
+            "linkedin":"https://www.linkedin.com/in/debasmita-sarkar-0b0b3b1b7/",
+            "twitter":"https://twitter.com/DebasmiSarkar"
+        }
+    },
+    "about":{
+        "bio":"I am a Full Stack Developer with a passion for learning and exploring new technologies. I have experience in developing web applications using MERN stack. I am a quick learner and a team player with good communication skills.",
+        "contacts":{
+            "email":"deb@gmail.com",
+            "phone":"+91 1234567890",
+            "address":"Kolkata, India"
+        }
+    },
+    "skills":{
+        "frontend":["HTML","CSS","JavaScript","React"],
+        "backend":["Node.js","Express","MongoDB"],
+        "tools":["Git","VS Code","Postman"]
+    },
+    "projects":[
+        {
+            "name":"Project 1",
+            "description":"This is a project description",
+            "techStack":["React","Node.js","MongoDB"],
+            "github":"https://github.com/debasmita123"
+        },
+        {
+            "name":"Project 2",
+            "description":"This is a project description",
+            "techStack":["React","Node.js","MongoDB"],
+            "github":"https://github.com/debasmita123"
+        }
+    ]
+}
